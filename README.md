@@ -9,3 +9,6 @@ Too activate:
 
 That's all.
 
+## Build package
+
+    #> python.exe -m buil
