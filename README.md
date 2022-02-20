@@ -11,4 +11,9 @@ That's all.
 
 ## Build package
 
-    #> python.exe -m buil
+    #> python.exe -m build
+
+## Publish package
+
+    #> python.exe -m twine upload --repository testpypi dist/*
+
